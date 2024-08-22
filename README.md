@@ -8,6 +8,14 @@
 - 📫 Reach Me via LinkedIn: https://www.linkedin.com/in/filsan-musa/
 - ⚡ Interests: Computer Vision, and Generative AI (particularly image generation, image synthesis, and image modifications)
 
+Python    ██████████████████▒░░░░░░   75.00 %
+R         ████████▒░░░░░░░░░░░░░░░░   30.00 %
+Julia     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+SQL       ████████████████████▒░░░░   85.00 %
+MongoDB   █████████▒░░░░░░░░░░░░░░░   35.00 %
+Spark     ███████████▒░░░░░░░░░░░░░   45.00 %
+
+
 <!--
 **filsan95/filsan95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
