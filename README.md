@@ -7,12 +7,6 @@
 - ⚡ Interests: Computer Vision, and Generative AI (particularly image generation, image synthesis, and image modifications)
 
 ```
-SQL       █████████████████▒░░░   85.00 %
-Python    ███████████████▒░░░░░   75.00 %
-Spark     ████████▒░░░░░░░░░░░░   45.00 %
-MongoDB   ██████▒░░░░░░░░░░░░░░   35.00 %
-Julia     ▒░░░░░░░░░░░░░░░░░░░░   05.00 %
-
 SQL       █████████████████████████████████▒░░░░░░░░   85.00 %
 Python    █████████████████████████████▒░░░░░░░░░░░░   75.00 %
 Spark     █████████████████▒░░░░░░░░░░░░░░░░░░░░░░░░   45.00 %
