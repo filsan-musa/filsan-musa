@@ -5,7 +5,8 @@
 - 👯 I'm interested in collaborating on projects and research related to the fields of Generative AI and Computer Vision.
 - ⚡ Interests: Computer Vision, and Generative AI (particularly image generation, image synthesis, and image modifications)
 - 💡 Goals: Expland understanding of deep learning, strengthen mathematical foundation, enhance data engineering skills, keep up with relevant research and developments in areas of interest.
-- 📫 Reach Me via LinkedIn: https://www.linkedin.com/in/filsan-musa/
+
+Connect on LinkedIn: https://www.linkedin.com/in/filsan-musa/
 
 ```
 SQL       █████████████████████████████████▒░░░░░░░░   85.00 %
