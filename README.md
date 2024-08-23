@@ -1,4 +1,4 @@
-## Hello, my name is Filsan Musa!
+## Hello, my name is Filsan Musa! Welcome to my GitHub Page.
 
 - 👽 I’m a junior data scientist, and aspiring ml engineer.
 - 🔭 I’m currently pursuiting the MIT Micro Masters programme.
