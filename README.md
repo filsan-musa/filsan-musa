@@ -2,7 +2,7 @@
 
 - 👽 I’m a junior data scientist, and aspiring ml engineer.
 - 🔭 I’m currently pursuiting the MIT Micro Masters programme.
-- 👯 I wish to collaborate on innovative projects and research papers related to the fields of Generative AI and Computer Vision.
+- 👯 I'm interested in collaborating on projects and research related to the fields of Generative AI and Computer Vision.
 - 📫 Reach Me via LinkedIn: https://www.linkedin.com/in/filsan-musa/
 - ⚡ Interests: Computer Vision, and Generative AI (particularly image generation, image synthesis, and image modifications)
 
