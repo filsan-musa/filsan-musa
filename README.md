@@ -10,6 +10,16 @@
 - ⚡ Interests: Computer Vision, and Generative AI (particularly image generation, image synthesis, and image modifications)
 
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=filsan95&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=filsan95&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+- 👽 I’m a junior data analyst
+- 🔭 I’m currently pursuing a Master's in Data Science
+- 👯 Let's collaborate
+- 📫 Reach Me via LinkedIn: [YOUR_LinkedIn_USERNAME](https://www.linkedin.com/in/YOUR_LinkedIn_USERNAME)
+- ⚡ Interests: AI
+
+
 ```
 SQL       █████████████████▒░░░   85.00 %
 Python    ███████████████▒░░░░░   75.00 %
