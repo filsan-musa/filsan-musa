@@ -1,5 +1,7 @@
 ## Greetings Earthling! Welcome to my GitHub page.
 
+![Filsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=filsan95&show_icons=true&theme=transparent)
+
 - 👽 I’m a junior data scientist, and aspiring ml engineer.
 - 🔭 I’m currently pursuiting the MIT Micro Masters programme.
 - 👯 I wish to collaborate on innovative projects and research papers related to the fields of Generative AI and Computer Vision.
@@ -21,8 +23,6 @@ MongoDB   █████████████▒░░░░░░░░░�
 Julia     █▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 
 ```
-
-![Filsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=filsan95&show_icons=true&theme=transparent)
 
 <!--
 **filsan95/filsan95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
