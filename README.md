@@ -33,7 +33,7 @@
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 
-
+#### Proficiency:
 ```
 SQL       █████████████████████████████████▒░░░░░░░░   85.00 %
 Python    █████████████████████████████▒░░░░░░░░░░░░   75.00 %
@@ -41,11 +41,6 @@ Spark     █████████████████▒░░░░░�
 MongoDB   █████████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░   35.00 %
 Julia     █▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
-
-https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white
-https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white
-https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white
-
 
 <!--
 **filsan95/filsan95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
