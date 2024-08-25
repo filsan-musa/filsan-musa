@@ -1,4 +1,4 @@
-## Greetings Earthling! Welcome to my GitHub page.
+## Greetings Earthling! Welcome to my GitHub galaxy.
 
 - 👽 I’m a junior data scientist, and aspiring ml engineer.
 - 🔭 I’m currently pursuiting the MIT Micro Masters programme.
