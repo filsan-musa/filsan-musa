@@ -1,6 +1,6 @@
 ## Greetings Earthling! Welcome to my GitHub galaxy.
 
-- 👽 I’m a junior data scientist, and aspiring ml engineer.
+- 👽 I’m a junior data scientist, and aspiring computer vision engineer.
 - 🔭 I’m currently pursuiting the MIT Micro Masters programme.
 - 👯 I'm interested in collaborating on projects and research related to the fields of Generative AI and Computer Vision.
 - ⚡ Interests: Computer Vision, and Generative AI (particularly image generation, synthesis, and modifications)
