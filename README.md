@@ -1,10 +1,10 @@
 ## Greetings Earthling! Welcome to my GitHub galaxy.
 
 - 👽 I’m a junior data scientist, and aspiring computer vision engineer.
-- 🔭 I’m starting my MS in Data Science.
+- 🔭 I’m doing my MS in Data Science.
 - 👯 I'm interested in collaborating on projects and research related to the fields of Generative AI and Computer Vision.
 - ⚡ Interests: Computer Vision, and Generative AI (particularly image generation, synthesis, and modifications)
-- 💡 Goals: Expand understanding of deep learning, strengthen mathematical foundation, enhance data engineering skills, keep up with relevant research and developments in areas of interest.
+- 💡 Goals: Seeking research opportunities.
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/filsan-musa/
 
 #### Frequently Used Tools:
