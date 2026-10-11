@@ -1,7 +1,7 @@
-## Greetings Earthling! Welcome to my GitHub galaxy.
+## Greetings Earthling! Welcome to my GitHub page.
 
 - 👽 I’m a junior data scientist, and aspiring computer vision engineer.
-- 🔭 I’m doing my MS in Data Science.
+- 🔭 I’m doing my MS in Data Science with a focus on Artificial Intelligence.
 - 👯 I'm interested in collaborating on projects and research related to the fields of Generative AI and Computer Vision.
 - ⚡ Interests: Computer Vision, and Generative AI (particularly image generation, synthesis, and modifications)
 - 💡 Goals: Seeking research opportunities.
